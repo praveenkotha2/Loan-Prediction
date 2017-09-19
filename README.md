@@ -1,2 +1,3 @@
 # Loan-Prediction
-Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form.
+Analytics Vidhya Loan Prediction Problem
+Public leaderboard 262/1650(accuracy 0.79167)
