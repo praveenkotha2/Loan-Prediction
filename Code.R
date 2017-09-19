@@ -98,7 +98,6 @@ newl_train<-subset(newl_train,newl_train$Loan_Amount_Term>70)
 
 
 ##Building Xgboost Machine learning model
-#install.packages(c("e1071","caret","doSNOW","ipred","xgboost"))
 library(caret)
 library(doSNOW)
 
